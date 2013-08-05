@@ -65,12 +65,7 @@
 				
 				<div class="field">
 					<label>Penempatan awal</label>
-                    <input id="message_name" name="awal" size="30" type="text" />
-				</div>
-				
-				<div class="field">
-					<label>Penempatan akhir</label>
-                    <input id="message_name" name="akhir" size="30" type="text" />
+                    <input id="message_name" name="penempatan_awal" size="30" type="text" />
 				</div>
 				
 				<div class="field">

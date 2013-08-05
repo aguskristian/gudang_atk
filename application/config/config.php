@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/user_level/';
+$config['base_url']	= 'http://localhost/github/gudang_atk/';
 
 /*
 |--------------------------------------------------------------------------
@@ -224,7 +224,7 @@ $config['cache_path'] = '';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = 'administrator';
+$config['encryption_key'] = 'ikadeksuryaputrajalanneptunusgang1no4';
 
 /*
 |--------------------------------------------------------------------------
